@@ -1,0 +1,5 @@
+print("Hello world")
+print(5)
+print("bye")
+print(17*13)
+print("The result is:", 17*13)
